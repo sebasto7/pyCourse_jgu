@@ -11,7 +11,7 @@ install the version for Python 3.7.
 
 Open up "Terminal" (You can search for it in the searchbar). Here we will type commands in order to do some stuff. In this tutorial (also probably in your own terminal) the commands you will write will start with "$". Let's see if conda is installed by writing the following command:
 
-*$conda*
+*$conda
 
 press Enter and just after your typed command you will see: 
 
