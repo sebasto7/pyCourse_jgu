@@ -16,10 +16,18 @@ go to: https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/ins
 
 ### Using Anaconda Navigator (User interface)
 Open up "Anaconda Navigator" (You can search for it in the searchbar).
-Many applications, including Jupyter notebooks, are availeble in the navigator by default.
+Many applications, including Jupyter notebooks, are availeble in the navigator by default, but you need to install them first.
 
-Navigator is an easy, point-and-click way to work with packages and environments without needing to type conda commands in a terminal window. You can use it to find the packages you want, install them in an environment, run the packages, and update them – all inside Navigator.
-To learn more how to use it,
+Navigator is an easy, point-and-click way to work with packages and environments without needing to type conda commands in a terminal window. You can use it to find the packages you want, install them in an environment, run the packages, and update them – all inside Navigator.<br\>
+1. In Navigator, click the Environments tab, then click the Create button. The Create new environment dialog box appears.<br\>
+2. In the Environment name field, type a descriptive name for your environment (e.g., python_intro_course_environment), and select Python version 3.7.<br\>
+3. In Navigator, click the Home tab, select your environment at "Application on", and click to INSTALL Jypyter Notebook.<br\>
+4. LAUNCH Jupyter Notebook.<br\>
+
+It should open up a browser which will show you some directories that are located in your computer. Here navigate to the directory where you downloaded our course material.
+
+
+To learn much more,
 go to: https://docs.anaconda.com/anaconda/navigator/
 
 
